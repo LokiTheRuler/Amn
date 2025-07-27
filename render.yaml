@@ -6,6 +6,6 @@ services:
     startCommand: python bot.py
     envVars:
       - key: BOT_TOKEN
-        value: YOUR_BOT_TOKEN
+        value: 8340967995:AAEKWqKZ-iE8ulzRbdHBJHoWcyeYi2MLgPI  # Replace with your real bot token
       - key: CHANNEL_ID
-        value: -1001234567890  # Your channel's numeric ID
+        value: -1002733223003  # Your actual channel numeric ID
